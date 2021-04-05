@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tugas2TPM</string>
+    <string name="nama2">Nama:</string>
+    <string name="nim2" >NIM:</string>
+    <string name="ipk2" >IPK:</string>
+    <string name="submit" >SUBMIT</string>
+</resources>
